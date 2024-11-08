@@ -1,0 +1,9 @@
+{
+    "CHROMA_DB_USERNAME": "",
+    "CHROMA_DB_PASSWORD": "",
+    "CHROMA_DB_HOST": "",
+    "CHROMA_DB_PORT": 8000,
+    "EMBEDDING_MODEL_URL": "",
+    "EMBEDDING_MODEL_NAME": "",
+    "COLLECTION_NAME": ""
+}
